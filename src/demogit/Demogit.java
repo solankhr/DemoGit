@@ -17,6 +17,7 @@ public class Demogit {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("World");
+        System.out.println("Hello World");
     }
     
 }
